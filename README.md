@@ -1,4 +1,6 @@
-<h1 align="center">모던애자일 8기 프론트 팀원 신현성입니다!🙌</h1>
+<h1 align="center">
+  <a href="https://github.com/modern-agile-team">Modern Agile</a>
+  8기 Frontend 팀원 신현성입니다!</h1>
 <div align="center">
   <h3>Languages and Tools:</h3>
   
