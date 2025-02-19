@@ -10,7 +10,12 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
+  
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluetree7878&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="bluetree7878" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=bluetree7878&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="bluetree7878" /></p>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=bluetree7878&theme=onedark)](https://github.com/bluetree7878/github-profile-trophy)
+  
+
 
 </div>
