@@ -4,10 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&pause=1000&color=36BCF7&center=true&width=450&size=25&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Vite+Lover;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&size=25&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Vite+Lover;Always+Learning+New+Tech!" />
 </p>
-
----
 
 <h3 align="center">🔧 Tech Stack & Tools</h3>
 <p align="center">
