@@ -3,6 +3,12 @@
   <a href="https://github.com/modern-agile-team"><img src="https://img.shields.io/badge/Modern%20Agile-8th%20Frontend%20Team-blue?style=flat-square&logo=github" /></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&pause=1000&color=36BCF7&center=true&width=450&size=25&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Vite+Lover;Always+Learning+New+Tech!" />
+</p>
+
+---
+
 <h3 align="center">🔧 Tech Stack & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -36,4 +42,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bluetree7878&theme=tokyonight" />
 </p>
-
