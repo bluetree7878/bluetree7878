@@ -1,4 +1,9 @@
-<h1 align="center">🚀 신현성 | Frontend Developer</h1>
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=신현성&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Frontend+Developer&descAlignY=51&descAlign=62)
+
+</div>
+
 <p align="center">
   <a href="https://github.com/modern-agile-team"><img src="https://img.shields.io/badge/Modern%20Agile-8th%20Frontend%20Team-blue?style=flat-square&logo=github" /></a>
 </p>
