@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluetree7878&layout=compact&theme=tokyonight" />
 </p>
@@ -34,14 +34,14 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">🏆 Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bluetree7878&theme=onedark&margin-w=15&no-frame=true" />
 </p>
 
 ---
 
-<h3 align="center">🔥 GitHub Streak</h3>
+<h3 align="center">🔥 Streak</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bluetree7878&theme=tokyonight" />
 </p>
