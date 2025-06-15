@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=신현성&fontSize=70&animation=fadeOut&fontAlignY=38&desc=Frontend+Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=신현성&fontSize=70&animation=fadeOut&fontAlignY=38&desc=Frontend+Developer&descAlignY=51&descAlign=62)
 
 </div>
 
